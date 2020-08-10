@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1058891661175",
+    "firebase_url": "https://shidoriapp-6729e.firebaseio.com",
+    "project_id": "shidoriapp-6729e",
+    "storage_bucket": "shidoriapp-6729e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058891661175:android:b6b8d4891a7c69474f6b72",
+        "android_client_info": {
+          "package_name": "com.daftarirn.shidoriapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058891661175-tqt8hbc97671gmqiscm1v7tnbdlo55tg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daftarirn.shidoriapp",
+            "certificate_hash": "55e0ab0bdfa8b10504bd0bc224eca811967f029c"
+          }
+        },
+        {
+          "client_id": "1058891661175-utrffdago1rhg1961cm709guv9lcfdet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCnUS1SjFTeUnMbtY9NjrgKzoMiPMF5-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058891661175-utrffdago1rhg1961cm709guv9lcfdet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

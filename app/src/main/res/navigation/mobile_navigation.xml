@@ -22,4 +22,10 @@
         android:name="com.daftarirn.shidoriapp.ui.notifications.NotificationsFragment"
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_notifications" />
+
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.daftarirn.shidoriapp.ui.profile.ProfilePage"
+        android:label="@string/title_profile"
+        tools:layout="@layout/profile_page_fragment" />
 </navigation>
